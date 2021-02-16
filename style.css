@@ -1,1 +1,7 @@
 <!-- Insert CSS Styles Here -->
+
+body {
+    margin: 0;
+    padding: 0;
+    display: border-box;
+}
